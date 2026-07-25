@@ -21,3 +21,5 @@ This project builds and evaluates a classifier that detects whether a prompt is 
 - SVM was the best-performing and most stable traditional ML model.
 - The Decision Tree showed high variance between validation and test performance.
 - The final comparison identifies the strongest prompting strategy against the ML baselines
+
+## Team 5
